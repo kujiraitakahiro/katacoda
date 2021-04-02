@@ -6,6 +6,11 @@
       "course_id": "nginx_web",
       "title": "nginx(webserver)",
       "description": "building web server(nginx mainline)"
+    },
+    {
+      "course_id": "apache_web_nginx_reverseproxy",
+      "title": "nginx(webserver)",
+      "description": "building web server(nginx mainline)"
     }
   ]
 }
