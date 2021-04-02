@@ -2,7 +2,7 @@
   "title": "nginx(webserver)",
   "description": "building web server(nginx mainline)",
   "difficulty": "Beginner",
-  "time": "20m",
+  "time": "15m",
   "details": {
     "steps": [
       {
