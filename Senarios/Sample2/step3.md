@@ -4,5 +4,5 @@
 レポジトリファイル名：/usr/share/nginx/html/index.html
 
 ```html
-14  &lt;h1&gt;Welcome to nginx! by yourname&lt;/h1&gt; ・・・あなたの名前を記入
+14  <h1>Welcome to nginx! by yourname</h1> ・・・あなたの名前を記入
 ```
