@@ -6,6 +6,11 @@
       "course_id": "Sample2",
       "title": "nginx(webserver)",
       "description": "building web server(nginx mainline)"
+    },
+    {
+      "course_id": "sample3",
+      "title": "apache(httpd)",
+      "description": "apache(httpd)"
     }
   ]
 }
