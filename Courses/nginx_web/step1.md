@@ -2,9 +2,9 @@
 nginx mainlineをインストールするために、  
 レポジトリファイルを作成します。  
 
-レポジトリファイル名：/etc/yum.repos.d/nginx.repo
+レポジトリファイル名：/etc/yum.repos.d/nginx.repos
 
-nginx.repoの内容  
+nginx.reposの内容  
 ```txt
 [nginx-mainline]
 name=nginx mainline repo

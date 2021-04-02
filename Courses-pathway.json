@@ -1,16 +1,11 @@
 {
-  "title": "My First Server",
-  "description": "Building Server Course",
+  "title": "LinuC2 Server Exercises",
+  "description": "LinuC2 Server Exercises",
   "courses": [
     {
-      "course_id": "Sample2",
+      "course_id": "nginx_web",
       "title": "nginx(webserver)",
       "description": "building web server(nginx mainline)"
-    },
-    {
-      "course_id": "sample3",
-      "title": "apache(httpd)",
-      "description": "apache(httpd)"
     }
   ]
 }
