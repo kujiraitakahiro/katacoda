@@ -3,6 +3,7 @@
 
 レポジトリファイル名：/usr/share/nginx/html/index.html
 
+```txt
 1  <!DOCTYPE html>
 2  <html>
 3  <head>
@@ -28,3 +29,4 @@
 23  <p><em>Thank you for using nginx.</em></p>
 24  </body>
 25  </html>
+```
