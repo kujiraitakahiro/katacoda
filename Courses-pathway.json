@@ -9,8 +9,8 @@
     },
     {
       "course_id": "apache_web_nginx_reverseproxy",
-      "title": "nginx(webserver)",
-      "description": "building web server(nginx mainline)"
+      "title": "apache(webserver)&nginx(reverseproxyserver)",
+      "description": "building web server & reverse proxy server"
     }
   ]
 }
