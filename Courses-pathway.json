@@ -1,0 +1,11 @@
+{
+  "title": "My First Server",
+  "description": "Building Server Course",
+  "courses": [
+    {
+      "course_id": "Sample2",
+      "title": "nginx(webserver)",
+      "description": "building web server(nginx mainline)"
+    }
+  ]
+}
