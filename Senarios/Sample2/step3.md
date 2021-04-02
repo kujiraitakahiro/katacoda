@@ -3,7 +3,7 @@
 
 レポジトリファイル名：/usr/share/nginx/html/index.html
 
-```txt
+```html
 1  &lt;!DOCTYPE html&gt;
 2  &lt;html&gt;
 3  &lt;head&gt;
