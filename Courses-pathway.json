@@ -1,6 +1,6 @@
 {
-  "title": "Linuc Level2 Server Exercises",
-  "description": "for Studying LinuC Level2",
+  "title": "LinuC Level2 Server Exercises",
+  "description": "For Studying Server Building",
   "courses": [
     {
       "course_id": "nginx_web",
