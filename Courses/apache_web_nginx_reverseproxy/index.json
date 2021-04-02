@@ -1,8 +1,8 @@
 {
-  "title": "nginx(webserver)",
-  "description": "building web server(nginx mainline)",
+  "title": "apache(webserver)&nginx(reverseproxyserver)",
+  "description": "building web server & reverse proxy server",
   "difficulty": "Beginner",
-  "time": "20m",
+  "time": "30m",
   "details": {
     "steps": [
       {
