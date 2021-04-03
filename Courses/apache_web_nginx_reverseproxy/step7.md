@@ -1,7 +1,6 @@
 **Step7**  
 nginxをReverse Proxyとして動作するように設定します。  
 
-
 設定ファイルパス：/etc/nginx/nginx.conf
 
 ```txt
