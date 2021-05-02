@@ -11,6 +11,11 @@
       "course_id": "apache_web_nginx_reverseproxy",
       "title": "apache(webserver)&nginx(reverseproxyserver)",
       "description": "building web server & reverse proxy server"
+    },
+    {
+      "course_id": "squid_proxy",
+      "title": "squid(proxyserver)",
+      "description": "building proxy server"
     }
-  ]
+      ]
 }
