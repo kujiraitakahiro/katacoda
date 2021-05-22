@@ -18,4 +18,25 @@
       "description": "building proxy server"
     }
       ]
+},
+{
+  "title": "LinuC Level2 Server Exercises",
+  "description": "For Studying Server Building",
+  "courses": [
+    {
+      "course_id": "nginx_web",
+      "title": "nginx(webserver)",
+      "description": "building web server(nginx mainline)"
+    },
+    {
+      "course_id": "apache_web_nginx_reverseproxy",
+      "title": "apache(webserver)&nginx(reverseproxyserver)",
+      "description": "building web server & reverse proxy server"
+    },
+    {
+      "course_id": "squid_proxy",
+      "title": "squid(proxyserver)",
+      "description": "building proxy server"
+    }
+      ]
 }
