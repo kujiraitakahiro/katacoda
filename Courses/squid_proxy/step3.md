@@ -5,7 +5,7 @@
 
 ```txt
 変更箇所
-http_access 3128
+http_port 3128
 ↓
-http_access 8080
+http_port 8080
 ```
