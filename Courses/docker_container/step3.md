@@ -5,7 +5,7 @@ docker ps(起動コンテナ一覧)
 docker ps -a(停止しているコンテナも含めて一覧表示)  
 
 docker run --name nginx01 -d -p 8080:80 nginx  
-```txt
+```txt  
   --name：コンテナに任意の名前を付与  
   -d：バックグラウンドでコンテナを実施  
 　-i：コンテナの標準入力を開く  
