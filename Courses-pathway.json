@@ -16,6 +16,11 @@
       "course_id": "squid_proxy",
       "title": "squid(proxyserver)",
       "description": "building proxy server"
+    },
+    {
+      "course_id": "docker_container",
+      "title": "docker(container)",
+      "description": "operation docker container"
     }
       ]
 }
