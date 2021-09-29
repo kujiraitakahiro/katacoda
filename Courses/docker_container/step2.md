@@ -8,6 +8,7 @@ docker pull nginx(コンテナイメージの取得)
 
 docker pull nginx:1.21.3  
 　※バージョン(タグ)指定も可能  
+　※タグの一覧は[dockerhub](https://hub.docker.com/)で確認可能。  
 
 取得出来たら、docker imagesで取得したコンテナイメージを確認しましょう。  
 docker images  
