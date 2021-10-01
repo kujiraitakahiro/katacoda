@@ -21,6 +21,11 @@
       "course_id": "docker_container",
       "title": "docker(container)",
       "description": "operation docker container"
+    },
+    {
+      "course_id": "podman_container",
+      "title": "podman(container)",
+      "description": "operation podman container"
     }
       ]
 }
